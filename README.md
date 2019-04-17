@@ -68,4 +68,17 @@ Implementation:
 
 - Marketplace link : https://www.clicshopping.org/forum/files/file/165-modules-products-comparison/
 
-![image](https://github.com/ClicShoppingOfficialModulesV3/modules_products_compare/blob/master/ModuleInfosJson/image.png)
+
+All informations about the ClicShopping
+
+Community : https://www.clicshopping.org
+
+Software : https://github.com/ClicShopping
+
+Official add on : https://github.com/ClicShoppingOfficialModulesV3
+
+Community add on : https://github.com/ClicShoppingV3Community
+
+trademark License info : https://www.clicshopping.org/forum/trademark/
+
+![image](https://github.com/ClicShoppingOfficialModulesV3/modules_front_page_new_specials/blob/master/ModuleInfosJson/image.png)
