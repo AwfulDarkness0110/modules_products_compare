@@ -47,25 +47,30 @@ The modules are installed in the Default template.
 If you have another template, you must copy the files inside your new template.
 
 Important note :
-Before to activate the modules, you must remove the old activatited in Design section about these modules
-index page
-categories page
-favorites page
-featured page
-products new page
-specials page
-products listing page
-products search page
+Before to activate the modules, you must remove the old activated in Design section about these modules
+
+- index page
+- categories page
+- favorites page
+- featured page
+- products new page
+- specials page
+- products listing page
+- products search page
 
 After removed, you can activate module products comparison in all these files.
+
+Important activation
+-Activate Layout / Left and Right boxe : Product comparison (boxes)
+-Activate Configuration / SEO / Social networking / Meta Modules / Products comparison
 
 
 Implementation:
 - Download the module on the markeplace
-- Install the modules 
-
+- Copy all directories inside Shop except ModulesInfosJson 
 - Copy the modules_products_compare.json into ClicShopping/Work/Cache/Github (manual installation)
 
+Marketplace :
 - Marketplace link : https://www.clicshopping.org/forum/files/file/165-modules-products-comparison/
 
 
