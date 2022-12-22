@@ -1,0 +1,6 @@
+module_boxes_products_compare_title = Comparaison produits
+module_boxes_products_compare_description = Afficher la comparaison
+
+module_boxes_products_compare_box_title = Comparaison produits
+
+

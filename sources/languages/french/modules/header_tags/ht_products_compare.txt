@@ -1,0 +1,2 @@
+module_header_tags_products_compare_title = souhaitez-vous installez le script de comparaison de produits
+module_header_tags_products_compare_description = installe le script de comparaison de produits ((fonctionne avec le module de comparaison de produit)
